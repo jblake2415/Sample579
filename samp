@@ -6,7 +6,7 @@
     <title>Bacon and Egg-drew.com</title>
     <style>
         body {
-            background-image: url('[background.jpg](https://i.pinimg.com/originals/d2/36/87/d23687188aabd01cf01a9fc4e5cafd22.jpg)');
+            background-image: url('john_pork.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
