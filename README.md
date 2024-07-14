@@ -75,7 +75,7 @@
 </head>
 <body>
     <header>
-        <h1>Elegant Hair Salon</h1>
+        <h1>Bacon and Egg-drew.com</h1>
         <p>Your beauty is our passion</p>
     </header>
     <nav>
@@ -85,7 +85,7 @@
         <a href="#contact">Contact</a>
     </nav>
     <div class="hero" id="home">
-        <h1>Welcome to Elegant Hair Salon</h1>
+        <h1>Welcome to Bacon and Egg-drew.com!</h1>
         <p>Where style meets elegance</p>
     </div>
     <div class="container">
@@ -98,7 +98,7 @@
         </section>
         <section class="about" id="about">
             <h2>About Us</h2>
-            <p>At Elegant Hair Salon, we offer a range of services to keep your hair looking its best.</p>
+            <p>At Bacon and Egg-drew.com, we offer a range of services to keep your hair looking its best.</p>
             <p>Our team of professional stylists is here to provide you with a personalized experience.</p>
         </section>
         <section class="contact" id="contact">
