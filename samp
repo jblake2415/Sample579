@@ -26,33 +26,29 @@
 </head>
 <body>
     <h1>Welcome to Bacon and Egg-drew.com</h1>
-    <p>Ode to Andrew Gough, Lover of Bacon and Eggs
-
-In the realm of mornings bright and clear,
-Where sunlight dances without a fear,
-There's a friend named Andrew, hearty and bold,
-Whose love for bacon and eggs, I'm told.
-
-With each dawn's first light, he takes his stand,
-Sizzling bacon in a seasoned pan,
-Golden yolks like suns that rise,
-On his plate, a breakfast paradise.
-
-Oh Andrew Gough, with appetite grand,
-Your breakfast ritual, a legend so grand,
-Bacon crisp and eggs so divine,
-In your world, morning joys align.
-
-Through crispy days and sunny side highs,
-Your love for these treats never dies,
-A friend so true to morning's call,
-With bacon and eggs, you conquer all.
-
-Here's to Andrew Gough, whose hearty cheer,
-Brings bacon's sizzle and eggs so dear,
-May your mornings forever be bright,
-With bacon and eggs, your heart's delight.
-
-I hope this poem captures Andrew's zest for breakfast delights and brings a smile to both of your faces!.</p>
+    <p>This website is filled with brainrot content! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit fermentum justo, in vehicula nisi. Sed id magna quis velit tincidunt sodales.</p>
+    <div class="poem">
+        <h2>Ode to Andrew Gough, Lover of Bacon and Eggs</h2>
+        <p>In the realm of mornings bright and clear,</p>
+        <p>Where sunlight dances without a fear,</p>
+        <p>There's a friend named Andrew, hearty and bold,</p>
+        <p>Whose love for bacon and eggs, I'm told.</p>
+        <p>With each dawn's first light, he takes his stand,</p>
+        <p>Sizzling bacon in a seasoned pan,</p>
+        <p>Golden yolks like suns that rise,</p>
+        <p>On his plate, a breakfast paradise.</p>
+        <p>Oh Andrew Gough, with appetite grand,</p>
+        <p>Your breakfast ritual, a legend so grand,</p>
+        <p>Bacon crisp and eggs so divine,</p>
+        <p>In your world, morning joys align.</p>
+        <p>Through crispy days and sunny side highs,</p>
+        <p>Your love for these treats never dies,</p>
+        <p>A friend so true to morning's call,</p>
+        <p>With bacon and eggs, you conquer all.</p>
+        <p>Here's to Andrew Gough, whose hearty cheer,</p>
+        <p>Brings bacon's sizzle and eggs so dear,</p>
+        <p>May your mornings forever be bright,</p>
+        <p>With bacon and eggs, your heart's delight.</p>
+    </div>
 </body>
 </html>
