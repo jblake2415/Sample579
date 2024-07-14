@@ -75,7 +75,7 @@
 </head>
 <body>
     <header>
-        <h1>Elegant Hair Salon</h1>
+        <h1>Bacon and Egg-drew.com</h1>
         <p>Your beauty is our passion</p>
     </header>
     <nav>
@@ -85,7 +85,7 @@
         <a href="#contact">Contact</a>
     </nav>
     <div class="hero" id="home">
-        <h1>Welcome to Elegant Hair Salon</h1>
+        <h1>Welcome to Bacon and Egg-drew.com!</h1>
         <p>Where style meets elegance</p>
     </div>
     <div class="container">
